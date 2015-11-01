@@ -14,6 +14,7 @@
 		0BC7C99F1BE6BE5900604390 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 0BC7C99E1BE6BE5900604390 /* Images.xcassets */; };
 		0BC7C9A21BE6BE5900604390 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 0BC7C9A01BE6BE5900604390 /* LaunchScreen.xib */; };
 		0BC7C9AE1BE6BE5A00604390 /* Practice_GCDTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 0BC7C9AD1BE6BE5A00604390 /* Practice_GCDTests.m */; };
+		0BC7C9B81BE6C22400604390 /* RelatedDocuments.strings in Resources */ = {isa = PBXBuildFile; fileRef = 0BC7C9B71BE6C22400604390 /* RelatedDocuments.strings */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -40,6 +41,7 @@
 		0BC7C9A71BE6BE5A00604390 /* Practice-GCDTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Practice-GCDTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		0BC7C9AC1BE6BE5A00604390 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		0BC7C9AD1BE6BE5A00604390 /* Practice_GCDTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Practice_GCDTests.m; sourceTree = "<group>"; };
+		0BC7C9B71BE6C22400604390 /* RelatedDocuments.strings */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.strings; path = RelatedDocuments.strings; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +65,7 @@
 		0BC7C9851BE6BE5900604390 = {
 			isa = PBXGroup;
 			children = (
+				0BC7C9B71BE6C22400604390 /* RelatedDocuments.strings */,
 				0BC7C9901BE6BE5900604390 /* Practice-GCD */,
 				0BC7C9AA1BE6BE5A00604390 /* Practice-GCDTests */,
 				0BC7C98F1BE6BE5900604390 /* Products */,
@@ -202,6 +205,7 @@
 				0BC7C99D1BE6BE5900604390 /* Main.storyboard in Resources */,
 				0BC7C9A21BE6BE5900604390 /* LaunchScreen.xib in Resources */,
 				0BC7C99F1BE6BE5900604390 /* Images.xcassets in Resources */,
+				0BC7C9B81BE6C22400604390 /* RelatedDocuments.strings in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
